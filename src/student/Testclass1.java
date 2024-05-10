@@ -6,6 +6,7 @@ public class Testclass1 {
 	
 		Student11 student1 = new Student11();
 
+		
 		Student11 student2 = new Student11();
 
 		student1.displayStudentInformation();
