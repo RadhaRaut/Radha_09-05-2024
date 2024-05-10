@@ -1,0 +1,54 @@
+Class: 
+-it is a template/blueprint to create an object.
+-it is a logical entity.
+
+Object: it is an instance of a class.
+
+=> the object exists physically in computer memory.
+
+----------------------------------------------------------------------------------------
+Student11 - class
+
+Fields/variables
+  - Rollno.
+  - name
+  - address
+  - email
+  - contactNo
+  
+ 
+--------------------------------------------------------------------------------------
+Constructor:
+-----------
+
+-it is special method, which we use to initialize the object(state of the object).
+
+-------------
+Types of constructor:
+1. default / no parameter: do not have any parameters.
+    syntax: ClassName(){}
+    
+2. parameterized constructor: parameterized constructors can accept parameters.
+                             - parameterized constructor is used for initialized the value.
+     syntax: ClassName(10, 20){}   
+     
+-------------
+new keyword: - used to create an instance of a class / object.
+             - It is used to allocate memory for an object on the heap the
+              memory space where objects are stored.
+             - The new keyword in Java calls the constructor of a class to initialize the object. 
+             
+     Syntax: new ClassName();
+     
+Rules for constructor:
+1. constructor name must be same as class name.
+2. access modifier are allowed public, private, protected, default)
+3. constructor do not have any return type.
+
+
+
+            
+     
+  
+
+
